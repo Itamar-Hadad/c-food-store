@@ -9,9 +9,9 @@ It was developed as part of the course **Introduction to Systems Programming (Co
 
 | Part | Folder   | Description                                                                 |
 |------|----------|-----------------------------------------------------------------------------|
-| 1️⃣  | [part1](.[/part1/](https://github.com/Itamar-Hadad/c-food-store/tree/main/Part%201)) | Basic store system with structs, dynamic memory, and menus              |
-| 2️⃣  | [part2]([./part2/](https://github.com/Itamar-Hadad/c-food-store/tree/main/Part%202)) | Linked lists, file I/O (text & binary), function pointers, polymorphism |
-| 3️⃣  | [part3]([./part3/](https://github.com/Itamar-Hadad/c-food-store/tree/main/Part%203)) | Compressed binary files, macros, variadic functions, inheritance-like logic |
+| 1️⃣  | [part1](https://github.com/Itamar-Hadad/c-food-store/tree/main/Part%201) | Basic store system with structs, dynamic memory, and menus              |
+| 2️⃣  | [part2](https://github.com/Itamar-Hadad/c-food-store/tree/main/Part%202) | Linked lists, file I/O (text & binary), function pointers, polymorphism |
+| 3️⃣  | [part3](https://github.com/Itamar-Hadad/c-food-store/tree/main/Part%203) | Compressed binary files, macros, variadic functions, inheritance-like logic |
 
 ---
 
@@ -30,9 +30,9 @@ It was developed as part of the course **Introduction to Systems Programming (Co
 ## 📦 How to Use
 
 Each part has its own `README.md` inside its folder:  
-- 📁 [`part1/README.md`]([./part1/README.md](https://github.com/Itamar-Hadad/c-food-store/blob/main/Part%201/README.md))  
-- 📁 [`part2/README.md`]([./part2/README.md](https://github.com/Itamar-Hadad/c-food-store/blob/main/Part%202/README.md))  
-- 📁 [`part3/README.md`]([./part3/README.md](https://github.com/Itamar-Hadad/c-food-store/blob/main/Part%203/README.md))
+- 📁 [`part1/README.md`](https://github.com/Itamar-Hadad/c-food-store/blob/main/Part%201/README.md)  
+- 📁 [`part2/README.md`](https://github.com/Itamar-Hadad/c-food-store/blob/main/Part%202/README.md) 
+- 📁 [`part3/README.md`](https://github.com/Itamar-Hadad/c-food-store/blob/main/Part%203/README.md)
 
 Inside each part you'll find:
 - Full file descriptions
